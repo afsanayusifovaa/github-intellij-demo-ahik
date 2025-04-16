@@ -1,0 +1,10 @@
+<extentreports>
+    <configuration>
+        <theme>dark</theme>
+        <encoding>UTF-8</encoding>
+        <protocol>https</protocol>
+        <reportName>Custom API Test Report</reportName>
+        <documentTitle>Extent Automation Report</documentTitle>
+        <timeStampFormat>yyyy-MM-dd HH:mm:ss</timeStampFormat>
+    </configuration>
+</extentreports>
